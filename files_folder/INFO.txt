@@ -1,0 +1,5 @@
+files .pdf, .jpg, .png
+
+out_txt - output file for PDF files
+
+out_jpg_text - output file for JPEG, PNG files
