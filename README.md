@@ -7,5 +7,7 @@ Extracted texts as a text file.
 
 Interface
 –input : input file
+
 –output : output text file
+
 –verbose : verbose mode ( output detailed logs )
