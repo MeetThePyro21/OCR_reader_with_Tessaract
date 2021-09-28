@@ -5,7 +5,8 @@ Command accept the following file formats: PNG, JPEG, PDF
 Output
 Extracted texts as a text file.
 
-Interface
+Interface:
+
 –input : input file
 
 –output : output text file
